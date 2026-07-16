@@ -19,7 +19,9 @@ Approach:
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
 */
+
 void segregate0and1(vector<int> &arr) {
         // code here
         int st=0;
